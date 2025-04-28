@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Payut's Precious Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Hobbies.qmd
+
+format:
+  html:
+    theme: vapor
+    mainfont: arial
+    monofont: courier new
+    css: styles.css

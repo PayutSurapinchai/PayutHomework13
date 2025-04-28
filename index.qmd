@@ -1,0 +1,28 @@
+---
+title: "Payut Surapinchai"
+image: myface.jpg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope-at
+      href: testmail:mailnoreply@gmail.org
+    - text: Playstation
+      icon: playstation
+      href: https://www.playstation.com/en-us/
+  id: ppc
+---
+
+:::{#ppc}
+## My skills
+- I'm the best at rolling down the hill in Aurora.
+- I'm very good at playing the piano.
+- I'm very good at playing shooting games.
+
+## My education
+- I'm studying as a Data Science major in University of Colorado Denver.
+- I graduated high school with 3.87 GPA.
+- I've taken 20 courses so far in the span of 1 year in University of Colorado Denver.
+:::
