@@ -8,7 +8,7 @@ about:
   links:
     - text: Email
       icon: envelope-at
-      href: testmail:mailnoreply@gmail.org
+      href: mail.noreply@gmail.org
     - text: Playstation
       icon: playstation
       href: https://www.playstation.com/en-us/
